@@ -1,0 +1,106 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-image: url(Kikis_Dream___No_Copyright_Retro_Lofi_Playlist_2022___Lofi_Hip_Hop_Chill_Beats_2022_gif\ \(1920×1080\).gif);
+}
+
+.textonhos {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+   
+}
+
+h1 {
+    margin-top: 20px;
+    font-family: 'Caveat Brush', sans-serif;
+}
+
+
+#butaocu{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #b1717a;
+   
+}
+
+.textonhos2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    text-decoration: none;
+    color: #b1717a;
+    font-weight: 700;
+}
+
+#calculator {
+    display: inline-block;
+    text-align: left;
+    background-color: #f1e1e2;
+    border: 1px solid #b1717a;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 600px;
+    margin: 0 auto;
+    position: absolute;
+    left: 0;
+    margin-left: 170px;
+    margin-top: 250px;
+}
+
+
+.form-grupo {
+    margin-bottom: 12px;
+}
+
+
+label {
+    display: block;
+    margin-bottom: 4px;
+    font-weight: bold;
+}
+
+
+input[type="number"],
+select {
+    width: 100%;
+    padding: 8px;
+    font-size: 18px;
+    box-sizing: border-box;
+}
+
+
+button {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 8px;
+}
+
+
+.resultado {
+    margin-top: 16px;
+    padding: 12px;
+    background: #f0f4f8;
+    border-radius: 4px;
+    text-align: right;
+    font-size: 18px;
+}
+
+
+.resultado strong {
+    display: block;
+    text-align: left;
+    margin-bottom: 6px;
+    font-size: 14px;
+}
+
+
+a {
+    display: inline-block;
+    margin-top: 12px;
+    color: #2563eb;
+}
