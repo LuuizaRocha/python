@@ -1,5 +1,4 @@
 import os
-
 from flask import Flask
 
 from controllers import cinema_bp, dashboard_bp
